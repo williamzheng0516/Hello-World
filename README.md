@@ -4,6 +4,6 @@
 #### How to Run Program
 #### Files Used
 #### Additional Documentation
-#### ***Versioning***
+#### <sub>Versioning</sub>
 ![](https://i.redd.it/3vwcrmb31rq91.png)
 
