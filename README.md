@@ -5,4 +5,4 @@
 #### Files Used
 #### Additional Documentation
 #### Versioning
-`hsl(212, 92%, 45%)`
+hsl(212, 92%, 45%)
